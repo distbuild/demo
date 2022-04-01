@@ -15,7 +15,7 @@
 
 ## Introduction
 
-*demo* is the build demo of [distbuild](https://github.com/distbuild).
+*demo* is the demo of [distbuild](https://github.com/distbuild).
 
 
 
